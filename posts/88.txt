@@ -1,0 +1,3 @@
+Company Name : APPLYCUP HIRING SOLUTIONS LLP
+Skills : ['rest', 'python', 'team player', 'sql', 'security', 'database', 'django', 'web technologies', 'php', 'debugging', 'html', 'shell scripting', 'soap']
+More info : https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-nasik-1-to-3-yrs-jobid-TvfCMKwRwOJzpSvf__PLUS__uAgZw==&source=srp

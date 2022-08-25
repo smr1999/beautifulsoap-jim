@@ -1,0 +1,3 @@
+Company Name : ATCS
+Skills : ['python', 'svn', 'problem solving', 'docker', 'django', 'git', 'multithreading', 'opencv']
+More info : https://www.timesjobs.com/job-detail/python-developer-atcs-navi-mumbai-2-to-4-yrs-jobid-4kQkh6MmFrtzpSvf__PLUS__uAgZw==&source=srp

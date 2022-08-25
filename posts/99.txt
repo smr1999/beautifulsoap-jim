@@ -1,0 +1,3 @@
+Company Name : botree technologies
+Skills : ['security compliance', 'python', 'html5', 'svn', 'javascript', 'database', 'django', 'git', 'web developer', 'debugging']
+More info : https://www.timesjobs.com/job-detail/python-developers-botree-technologies-ahmedabad-3-to-6-yrs-jobid-xKjpNpNLTCNzpSvf__PLUS__uAgZw==&source=srp

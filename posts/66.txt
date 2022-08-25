@@ -1,0 +1,3 @@
+Company Name : mquotient solutions
+Skills : ['python', 'django', 'web technologies', 'linux', 'mysql', 'cloud computing']
+More info : https://www.timesjobs.com/job-detail/python-developer-mquotient-solutions-pune-1-to-4-yrs-jobid-Ic__PLUS__lYIc3lBtzpSvf__PLUS__uAgZw==&source=srp

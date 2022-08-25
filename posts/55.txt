@@ -1,0 +1,3 @@
+Company Name : ATCS
+Skills : ['rest', 'python', 'django', 'git', 'multithreading', 'svn', 'problem solving', 'sql']
+More info : https://www.timesjobs.com/job-detail/python-django-atcs-navi-mumbai-4-to-7-yrs-jobid-BY__PLUS__3AMXIhuhzpSvf__PLUS__uAgZw==&source=srp

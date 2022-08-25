@@ -1,0 +1,3 @@
+Company Name : JobsLo Consultants
+Skills : ['python', 'oracle', 'rdbms', 'scala', 'data warehousing', 'team player', 'git']
+More info : https://www.timesjobs.com/job-detail/python-developer-jobslo-consultants-pune-7-to-12-yrs-jobid-9Jrf8AyIdnFzpSvf__PLUS__uAgZw==&source=srp

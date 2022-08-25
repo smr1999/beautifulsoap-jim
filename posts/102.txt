@@ -1,0 +1,3 @@
+Company Name : Pattem Digital Technologies
+Skills : ['algorithms', 'linux scripting', 'oop', 'devops', 'web developer', 'linux', 'mysql', 'data structures', 'shell scripting', 'api', 'rest', 'python', 'machine learning']
+More info : https://www.timesjobs.com/job-detail/python-developer-pattem-digital-technologies-bengaluru-bangalore-3-to-6-yrs-jobid-JsVHjxVP5vFzpSvf__PLUS__uAgZw==&source=srp

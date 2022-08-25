@@ -1,0 +1,3 @@
+Company Name : KIWITECH
+Skills : ['algorithms', 'python', 'css', 'javascript', 'jquery', 'web programming', 'oop', 'django', 'zope', 'linux', 'web development', 'html', 'data structures']
+More info : https://www.timesjobs.com/job-detail/python-developer-kiwitech-noida-greater-noida-3-to-6-yrs-jobid-yfbpqQ5Ita5zpSvf__PLUS__uAgZw==&source=srp

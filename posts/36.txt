@@ -1,0 +1,3 @@
+Company Name : ATCS
+Skills : ['python', 'svn', 'problem solving', 'docker', 'django', 'git', 'multithreading', 'opencv']
+More info : https://www.timesjobs.com/job-detail/python-lead-atcs-navi-mumbai-5-to-8-yrs-jobid-9pp6bg8AiAlzpSvf__PLUS__uAgZw==&source=srp

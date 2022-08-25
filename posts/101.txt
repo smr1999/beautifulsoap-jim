@@ -1,0 +1,3 @@
+Company Name : AGILE Infoways Pvt. Ltd.
+Skills : ['python', 'database', 'django', 'git', 'html5', 'mysql', 'mvc', 'machine learning', 'javascript']
+More info : https://www.timesjobs.com/job-detail/python-developer-agile-infoways-pvt-ltd-ahmedabad-1-to-2-yrs-jobid-9ezCmZNC7FdzpSvf__PLUS__uAgZw==&source=srp

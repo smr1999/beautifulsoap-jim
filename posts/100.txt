@@ -1,0 +1,3 @@
+Company Name : Infosys Technologies Ltd
+Skills : ['algorithms', 'information technology', 'scala', 'sql', 'memory management', 'unix shell scripting', 'oops', 'data structures', 'software engineering', 'hadoop', 'big data', 'global delivery', 'python']
+More info : https://www.timesjobs.com/job-detail/python-developer-infosys-technologies-ltd-4-to-7-yrs-jobid-mPSbL4LYH01zpSvf__PLUS__uAgZw==&source=srp

@@ -1,0 +1,3 @@
+Company Name : tarams software technologies
+Skills : ['python', 'rdbms', 'web based applications', 'javascript', 'jquery', 'django', 'devops']
+More info : https://www.timesjobs.com/job-detail/python-developer-tarams-software-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-yZg63tSt54pzpSvf__PLUS__uAgZw==&source=srp

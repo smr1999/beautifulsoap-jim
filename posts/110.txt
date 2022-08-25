@@ -1,0 +1,3 @@
+Company Name : acquiscent technologies pvt. ltd.
+Skills : ['python', 'machine learning', 'javascript', 'nosql', 'java', 'django', 'written communication', 'linux', 'web application server', 'mysql']
+More info : https://www.timesjobs.com/job-detail/python-developer-acquiscent-technologies-pvt-ltd-pune-1-to-5-yrs-jobid-BQfBS4FTLbNzpSvf__PLUS__uAgZw==&source=srp

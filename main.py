@@ -33,9 +33,13 @@ if __name__ == '__main__':
                 skills = job.find('span',class_='srp-skills').text.split(' , ')
                 skills = [skill.strip() for skill in skills]
 
-                published_date = job.find('span',class_='sim-posted').span.text.strip()
+                more_info = job.header.h2.a.get('href')
 
-                jobs.append((company_name,skills))
+                jobs.append((company_name,skills,more_info))
         print(f'page {i}')
     
-    print(jobs)
+    for index,job in enumerate(jobs):
+        with open(f'posts/{str(index+1)}.txt','w') as f:
+            f.write(f'Company Name : {job[0]}\n')
+            f.write(f'Skills : {job[1]}\n')
+            f.write(f'More info : {job[2]}\n')

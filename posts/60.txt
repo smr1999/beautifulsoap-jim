@@ -1,0 +1,3 @@
+Company Name : Gemini Solutions
+Skills : ['python', 'c', 'oracle', 'sybase', 'autosys', 'sql', 'unix shell scripting', 'xml', 'linux', 'json', 'perl', 'solaris']
+More info : https://www.timesjobs.com/job-detail/qa-python-gemini-solutions-gurgaon-3-to-6-yrs-jobid-ep__SLASH__e__SLASH__M4__SLASH__x1xzpSvf__PLUS__uAgZw==&source=srp

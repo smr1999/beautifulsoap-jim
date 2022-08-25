@@ -1,0 +1,3 @@
+Company Name : QuEST Global Engineering Pvt Ltd
+Skills : ['software design', 'docker', 'security', 'java', 'linux', 'python', 'problem solving', 'django']
+More info : https://www.timesjobs.com/job-detail/python-architect-quest-global-engineering-pvt-ltd-thiruvananthapuram-10-to-13-yrs-jobid-RSd9QMkeAZBzpSvf__PLUS__uAgZw==&source=srp

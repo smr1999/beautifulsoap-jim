@@ -1,0 +1,3 @@
+Company Name : Oak systems pvt ltd
+Skills : ['c#', 'python', 'c', 'c', 'software testing', 'groovy', 'git', '.net']
+More info : https://www.timesjobs.com/job-detail/python-engineer-oak-systems-pvt-ltd-bengaluru-bangalore-5-to-8-yrs-jobid-n9DaClCGaDdzpSvf__PLUS__uAgZw==&source=srp

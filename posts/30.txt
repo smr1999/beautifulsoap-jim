@@ -1,0 +1,3 @@
+Company Name : Congruent Info-Tech
+Skills : ['c#', 'algorithms', 'python', 'team player', 'git', 'software engineering']
+More info : https://www.timesjobs.com/job-detail/python-developer-congruent-info-tech-chennai-3-to-6-yrs-jobid-JJgG09mCBEFzpSvf__PLUS__uAgZw==&source=srp

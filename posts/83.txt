@@ -1,0 +1,3 @@
+Company Name : PNR Software Solutions Private Limited
+Skills : ['python', 'github', 'telecom bss', 'django', 'devops', 'linux', 'debugging', 'telecom', 'api', 'unix']
+More info : https://www.timesjobs.com/job-detail/python-developer-pnr-software-solutions-private-limited-hyderabad-secunderabad-3-to-6-yrs-jobid-Pv1kIt021i5zpSvf__PLUS__uAgZw==&source=srp

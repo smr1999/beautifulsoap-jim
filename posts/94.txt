@@ -1,0 +1,3 @@
+Company Name : KTree Computer Solutions India  ( P )  Ltd
+Skills : ['css', 'sql', 'git', 'xml', 'mysql', 'html', 'rest', 'python', 'perl scripting', 'mobile', 'openerp', 'javascript', 'django', 'unix  /  linux', 'software developer', 'soap']
+More info : https://www.timesjobs.com/job-detail/python-developer-ktree-computer-solutions-india-p-ltd-hyderabad-secunderabad-10-to-13-yrs-jobid-089QTDqyagBzpSvf__PLUS__uAgZw==&source=srp

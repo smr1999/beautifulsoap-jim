@@ -1,0 +1,3 @@
+Company Name : HyreFox Consultants
+Skills : ['python', 'django', 'html5', 'web developer', 'debugging', 'javascript']
+More info : https://www.timesjobs.com/job-detail/python-developer-hyrefox-consultants-jaipur-0-to-3-yrs-jobid-JruzcIIfoDdzpSvf__PLUS__uAgZw==&source=srp

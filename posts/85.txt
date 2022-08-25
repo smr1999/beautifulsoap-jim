@@ -1,0 +1,3 @@
+Company Name : GEMINI SOFTWARE SOLUTIONS
+Skills : ['algorithms', 'database', 'senior software developer', 'shell scripting', 'object oriented programming', 'python', 'team player', 'machine learning', 'django', 'unix  /  linux']
+More info : https://www.timesjobs.com/job-detail/python-developer-gemini-software-solutions-gurgaon-3-to-6-yrs-jobid-pZzMLnn5NYJzpSvf__PLUS__uAgZw==&source=srp

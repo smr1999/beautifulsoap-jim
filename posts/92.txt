@@ -1,0 +1,3 @@
+Company Name : K Tree computer solutions
+Skills : ['css', 'sql', 'git', 'xml', 'mysql', 'html', 'rest', 'python', 'perl scripting', 'mobile', 'openerp', 'django', 'unix  /  linux', 'soap']
+More info : https://www.timesjobs.com/job-detail/python-developer-k-tree-computer-solutions-hyderabad-secunderabad-1-to-4-yrs-jobid-JE1rJGz6RU1zpSvf__PLUS__uAgZw==&source=srp

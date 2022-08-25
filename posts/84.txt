@@ -1,0 +1,3 @@
+Company Name : TandA HR Solutions
+Skills : ['rest', 'python', 'html5', 'javascript', 'docker', 'node.js', 'django', 'json', 'mongodb']
+More info : https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-2-to-7-yrs-jobid-PIQBA1Z7__PLUS__qJzpSvf__PLUS__uAgZw==&source=srp

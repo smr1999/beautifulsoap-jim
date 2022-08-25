@@ -1,0 +1,3 @@
+Company Name : APPLYCUP HIRING SOLUTIONS LLP
+Skills : ['python', 'tornado', 'sql', 'django', 'git', 'postgresql', 'linux', 'mysql', 'software engineering']
+More info : https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-hyderabad-secunderabad-3-to-6-yrs-jobid-OOhEAqpAjP1zpSvf__PLUS__uAgZw==&source=srp

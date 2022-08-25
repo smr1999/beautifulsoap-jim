@@ -1,0 +1,3 @@
+Company Name : Codal
+Skills : ['security compliance', 'html5', 'storage', 'security', 'database', 'web developer', 'debugging', 'python', 'github', 'mobile', 'javascript', 'django']
+More info : https://www.timesjobs.com/job-detail/python-developer-codal-ahmedabad-5-to-8-yrs-jobid-c0Nl1QiK2YxzpSvf__PLUS__uAgZw==&source=srp

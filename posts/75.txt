@@ -1,0 +1,3 @@
+Company Name : knowledge lens
+Skills : ['python', 'tornado', 'artificial intelligence', 'database', 'devops', 'linux', 'mysql', 'mongodb']
+More info : https://www.timesjobs.com/job-detail/python-developer-knowledge-lens-bengaluru-bangalore-1-to-4-yrs-jobid-j3pwDPhIzL9zpSvf__PLUS__uAgZw==&source=srp

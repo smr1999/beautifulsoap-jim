@@ -1,0 +1,3 @@
+Company Name : APPLYCUP HIRING SOLUTIONS LLP
+Skills : ['python', 'nosql', 'xpath', 'database', 'django', 'postgresql', 'xml', 'json', 'perl', 'mongodb', 'couchdb']
+More info : https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-ahmedabad-5-to-8-yrs-jobid-je9aKnmW6UZzpSvf__PLUS__uAgZw==&source=srp
