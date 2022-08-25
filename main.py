@@ -6,14 +6,15 @@ if __name__ == '__main__':
         content = html_file.read()
         
         soup = BeautifulSoup(content,'lxml')
-        #print(soup.prettify())
         
-        # tags = soup.find('h5') # Just find first h5 tag
-        # print(tags)
+        course_cards = soup.find_all('div',class_='card')
 
-        courses_html_tags = soup.find_all('h5')
-        # print(courses_html_tags)
+
+        for course in course_cards:
+            # print(course.prettify())
+            # print(course.h5)
+            course_name = course.h5.text
+            course_price = course.a.text.split()[-1]
+            print(course_name,':',course_price)
         
-        for course in courses_html_tags:
-            print(course.text)
-        
+
